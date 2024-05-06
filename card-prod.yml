@@ -2,9 +2,9 @@ build:
   version: "1.0"
 
 card:
-  message: "Welcome to card related local API "
+  message: "Welcome to card related production API "
   contactDetails:
-    name: "Sandra Harald - Product Owner"
+    name: "mytest"
     email: "sandra@eazybank.com"
   onCallSupport:
     - (617) 432-2356
