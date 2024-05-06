@@ -4,7 +4,7 @@ build:
 account:
   message: "Welcome to account related production API "
   contactDetails:
-    name: "mytest9999"
+    name: "tesst123929292"
     email: "product@test.com"
   onCallSupport:
     - (453) 999-9999
