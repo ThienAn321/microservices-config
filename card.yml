@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+card:
+  message: "Welcome to card related local API "
+  contactDetails:
+    name: "local"
+    email: "local@test.com"
+  onCallSupport:
+    - (412) 419-3491

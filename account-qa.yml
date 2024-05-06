@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+account:
+  message: "Welcome to account related QA API "
+  contactDetails:
+    name: "QA"
+    email: "QA@test.com"
+  onCallSupport:
+    - (453) 999-9999
