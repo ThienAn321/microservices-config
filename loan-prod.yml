@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loan:
-  message: "Welcome to loan related prod APIs "
+  message: "Welcome to loan related webhook APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "pelias@eazybank.com"
