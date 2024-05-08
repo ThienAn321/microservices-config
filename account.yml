@@ -4,7 +4,7 @@ build:
 account:
   message: "Welcome to account related local webhook API "
   contactDetails:
-    name: "local"
+    name: "test"
     email: "local@test.com"
   onCallSupport:
     - (453) 392-4829
